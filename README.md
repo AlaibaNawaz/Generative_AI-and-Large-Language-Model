@@ -1,4 +1,7 @@
-Generative AI Labs
+
+**Generative AI Labs**
+
+
 This repository contains three comprehensive labs designed to explore and enhance dialogue summarization using generative AI models:
 
 Summarize Dialogue with Generative AI: Dive into the practical aspects of dialogue summarization by experimenting with zero-shot, one-shot, and few-shot inferences. Learn the basics of prompt engineering to guide the model towards accurate summarization tasks.
